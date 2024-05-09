@@ -1,0 +1,1 @@
+# intel-cpu-turbo-off-on-boot
